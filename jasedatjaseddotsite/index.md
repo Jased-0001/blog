@@ -2,9 +2,9 @@
 layout: default 
 ---
 
-# favicon tiem!!!
+# jasedatjaseddotsite
 
-## published on 8/7/2022
+## published on 8/??/2022
 
 ![screemshoompt.png](http://jased.site/blog/jasedatjaseddotsite/screemshoompt.png)
 
