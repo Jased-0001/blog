@@ -13,6 +13,26 @@
 
 {% seo %}
 
+    <!--favicon-->
+    <link rel="apple-touch-icon" sizes="57x57" href="https://jased.site/assets/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://jased.site/assets/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://jased.site/assets/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://jased.site/assets/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://jased.site/assets/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://jased.site/assets/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://jased.site/assets/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://jased.site/assets/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://jased.site/assets/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="https://jased.site/assets/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://jased.site/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://jased.site/assets/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://jased.site/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="https://jased.site/assets/favicon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://jased.site/assets/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <!--favicon end-->
+    
   {% include head-custom.html %}
 </head>
 
@@ -20,19 +40,12 @@
 
   <div class="wrapper">
     <header>
-      <h1 class="title">{{ site.title | default: site.github.repository_name }}</h1>
+      <a href="http://jased.site/"><h1>{{ site.title | default: site.github.repository_name }}</h1></a>
     </header>
     <div id="container">
       <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
       <div id="main" role="main">
-        <div class="download-bar">
-        <div class="inner">
-          {% if site.show_downloads %}
-          <a href="{{ site.github.tar_url }}" class="download-button tar"><span>Download</span></a>
-          <a href="{{ site.github.zip_url }}" class="download-button zip"><span>Download</span></a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="code">View {{ site.title | default: site.github.repository_name }} on GitHub</a>
-        </div>
+        <div class="inner"></div>
         <span class="blc"></span><span class="trc"></span>
         </div>
         <article class="markdown-body">
@@ -52,18 +65,15 @@
 
       </div>
       <div class="creds">
-        <small>This page generated using <a href="https://pages.github.com/">GitHub Pages</a><br>theme by <a href="https://twitter.com/jonrohan/">Jon Rohan</a></small>
+        {% if site.github.is_project_page %}
+          <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+          <p><b>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/jonrohan">jonrohan</a></b><br>
+          <b>Created by <a href="http://jased.site/aboutme">jased</a> using ❤</b><br/>
+          made possible with help from <a href="https://www.byemc.xyz/"><b>Bye</b></a>
+        </p>
       </div>
     </footer>
-  </div>
-  <div class="current-section">
-    <a href="#top">Scroll to top</a>
-    {% if site.show_downloads %}
-    <a href="{{ site.github.tar_url }}" class="tar">tar</a>
-    <a href="{{ site.github.zip_url }}" class="zip">zip</a>
-    <a href="{{ site.github.repository_url }}" class="code">source code</a>
-    {% endif %}
-    <p class="name"></p>
   </div>
 </body>
 </html>
