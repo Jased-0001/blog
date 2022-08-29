@@ -6,7 +6,7 @@ layout: default
 
 ## published on 7/30/2022
 
-![is-this-thing-on.png](http://jased.site/blog/is-this-thing-on/is-this-thing-on.png)
+![is-this-thing-on.png](http://jased.xyz/blog/is-this-thing-on/is-this-thing-on.png)
 
 yay! it is!
 
@@ -18,6 +18,6 @@ this is kind of a test which is why the thumbnail looks like.. that
 
 im probably gonna post things like what im doing on the site.. what i made.. and.. i really dont know
 
-i kinda just got jased.site because i could.
+i kinda just got jased.xyz because i could.
 
 **goodbye!**

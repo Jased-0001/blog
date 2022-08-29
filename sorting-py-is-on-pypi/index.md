@@ -6,7 +6,7 @@ layout: default
 
 ## published on 8/5/2022
 
-![toby.gif](http://jased.site/blog/sorting-py-is-on-pypi/toby.gif)*
+![toby.gif](http://jased.xyz/blog/sorting-py-is-on-pypi/toby.gif)*
 
 [algorsort link](https://pypi.org/project/algorsort/)
 

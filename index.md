@@ -10,14 +10,14 @@ layout: default
 
 # most recent post
 
-## [jasedatjaseddotsite](http://jased.site/blog/jasedatjaseddotsite)
+## [jasedatjaseddotsite](http://jased.xyz/blog/jasedatjaseddotsite)
 
 # older posts
 
-### [favicon tiem!!!](http://jased.site/blog/favicon-tiem)
+### [favicon tiem!!!](http://jased.xyz/blog/favicon-tiem)
 
-### [SORTING.PY IS ON PYPI!!](http://jased.site/blog/sorting-py-is-on-pypi)
+### [SORTING.PY IS ON PYPI!!](http://jased.xyz/blog/sorting-py-is-on-pypi)
 
-### [is this thing on?](http://jased.site/blog/is-this-thing-on)
+### [is this thing on?](http://jased.xyz/blog/is-this-thing-on)
 
 *this is a rant (read top)

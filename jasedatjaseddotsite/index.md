@@ -4,13 +4,13 @@ layout: default
 
 # jasedatjaseddotsite
 
-## published on 8/??/2022
+## published on 8/??/2022 edited 8/28/2022
 
-![screemshoompt.png](http://jased.site/blog/jasedatjaseddotsite/screemshoompt.png)
+![screemshoompt.png](http://jased.xyz/blog/jasedatjaseddotsite/screemshoompt.png)
 
 ## yoooo i got ittttt less gooooo
 
-[mailto link](https://jased.site/redirect/mailto)
+[mailto link](https://jased.xyz/redirect/mailto)
 
 ### how did i get here?
 
@@ -18,7 +18,7 @@ pain.
 
 ### no really
 
-first things first i decided i wanted jased@jased.site for my "developer contact" on everything that wanted one.
+first things first i decided i wanted jased@jased.xyz for my "developer contact" on everything that wanted one.
 
 after doing some *extremely light* research, i learnt that [zohomail](https://zohomail.com) had everything i wanted.. which is just a custom domain
 
@@ -34,7 +34,7 @@ you know its bad when ^^^^^
 
 SO, after a couple minutes of adding the records and after an hour with getting it to register, it just wouldnt. even with a TimeToLive set to *5 minutes* with a priority of **ninety nine**, it wouldnt do it.
 
-![pain.png](http://jased.site/blog/jasedatjaseddotsite/pain.png)
+![pain.png](http://jased.xyz/blog/jasedatjaseddotsite/pain.png)
 
 i did a test with emailing from my personal email to my new email
 
@@ -44,9 +44,13 @@ as a last ditch attempt i decided to email my personal email *from* my new email
 
 #### IT WORKED YES
 
-![relief.png](http://jased.site/blog/jasedatjaseddotsite/relief.png)
+![relief.png](http://jased.xyz/blog/jasedatjaseddotsite/relief.png)
 
 this made me soo happy
+
+edit:
+
+i got jased.xyz now, so ye
 
 # *** ==========--===-==-=-=-vusigui4bt4nn4uyunnutw4ntb7u4b= ***
 

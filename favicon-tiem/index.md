@@ -6,7 +6,7 @@ layout: default
 
 ## published on 8/7/2022
 
-![favicon-96x96.png](http://jased.site/assets/favicon/favicon-96x96.png)
+![favicon-96x96.png](http://jased.xyz/assets/favicon/favicon-96x96.png)
 
 i made a favicon
 
