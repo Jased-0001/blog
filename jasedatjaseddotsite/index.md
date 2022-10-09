@@ -10,7 +10,7 @@ layout: default
 
 ## yoooo i got ittttt less gooooo
 
-[mailto link](https://jased.xyz/redirect/mailto??return=https://jased.xyz/blog/jasedatjaseddotsite)
+[mailto link](https://jased.xyz/redirect/mailto?return=https://jased.xyz/blog/jasedatjaseddotsite)
 
 ### how did i get here?
 
