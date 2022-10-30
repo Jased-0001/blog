@@ -10,11 +10,9 @@ layout: default
 
 # most recent post
 
-## [DeuTerium](http://jased.xyz/blog/deuterium)
+### [cloudflare](http://jased.xyz/blog/cloudflare)
 
 # older posts 
-
-### [cloudflare](http://jased.xyz/blog/cloudflare)
 
 ### [jasedatjaseddotsite](https://jased.xyz/blog/jasedatjaseddotsite)
 
