@@ -10,18 +10,18 @@ layout: default
 
 # most recent post
 
-### [DeuTerium](http://jased.xyz/blog/deuterium)
+## [replit time](https://jased.xyz/blog/replit-site/)
 
 # older posts 
 
-### [cloudflare](http://jased.xyz/blog/cloudflare)
+### [DeuTerium](https://jased.xyz/blog/deuterium)
+
+### [cloudflare](https://jased.xyz/blog/cloudflare)
 
 ### [jasedatjaseddotsite](https://jased.xyz/blog/jasedatjaseddotsite)
 
-### [favicon tiem!!!](http://jased.xyz/blog/favicon-tiem)
+### [favicon tiem!!!](https://jased.xyz/blog/favicon-tiem)
 
-### [SORTING.PY IS ON PYPI!!](http://jased.xyz/blog/sorting-py-is-on-pypi)
+### [SORTING.PY IS ON PYPI!!](https://jased.xyz/blog/sorting-py-is-on-pypi)
 
-### [is this thing on?](http://jased.xyz/blog/is-this-thing-on)
-
-*this is a rant (read top)
+### [is this thing on?](https://jased.xyz/blog/is-this-thing-on)
