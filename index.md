@@ -9,10 +9,11 @@ layout: default
 **dont take ANYTHING with the word "rant" in the title seriously.**
 
 # most recent post
-
-## [replit time](https://jased.xyz/blog/replit-site/)
+## [Guide to setting up public keys for SSH](https://jased.xyz/blog/public-keys-on-ssh/)
 
 # older posts 
+
+### [replit time](https://jased.xyz/blog/replit-site/)
 
 ### [DeuTerium](https://jased.xyz/blog/deuterium)
 
